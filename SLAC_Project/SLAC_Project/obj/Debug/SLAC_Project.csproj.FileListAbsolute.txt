@@ -1,0 +1,6 @@
+c:\users\rushi\documents\visual studio 2013\Projects\SLAC_Project\SLAC_Project\bin\SLAC_Project.dll.config
+c:\users\rushi\documents\visual studio 2013\Projects\SLAC_Project\SLAC_Project\bin\SLAC_Project.dll
+c:\users\rushi\documents\visual studio 2013\Projects\SLAC_Project\SLAC_Project\bin\SLAC_Project.pdb
+c:\users\rushi\documents\visual studio 2013\Projects\SLAC_Project\SLAC_Project\obj\Debug\SLAC_Project.csprojResolveAssemblyReference.cache
+c:\users\rushi\documents\visual studio 2013\Projects\SLAC_Project\SLAC_Project\obj\Debug\SLAC_Project.dll
+c:\users\rushi\documents\visual studio 2013\Projects\SLAC_Project\SLAC_Project\obj\Debug\SLAC_Project.pdb
